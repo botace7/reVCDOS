@@ -182,3 +182,9 @@ Do what you want. Not affiliated with Rockstar Games.
 **Deobfuscated by**: [@Lolendor](https://github.com/Lolendor)
 
 **Russian translation:** [GamesVoice](https://www.gamesvoice.ru/)
+
+## Support me
+
+If you find this project useful:
+
+- **TON / USDT (TON)**  `UQAyBchGEKi9NnNQ3AKMQMuO-SGEhMIAKFAbkwwrsiOPj9Gy`
