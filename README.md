@@ -1,5 +1,8 @@
 # GTA Vice City — HTML5 Port (DOS Zone)
 
+# Port made by the DOS.Zone team: [dos.zone/reVCDOS](https://dos.zone/revcdos)
+# Official implementation: [GitHub](https://github.com/Carter54git/revcdos) 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13GFRIxTwVbixv0Vup9MSVXnB4SLmA3G7?usp=sharing)
 
 > **Fast Start:** Run the server in one click using Google Colab. Click the badge above, run the cell, and use the **"Launch Game"** button. The tunnel password will be copied automatically — just paste it on the page that opens.
